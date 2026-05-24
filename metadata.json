@@ -1,0 +1,6 @@
+{
+  "name": "Sentiment Analysis with Transformers",
+  "description": "A real-time sentiment monitoring dashboard and playground comparing fine-tuned BERT (Hugging Face) with standard baselines, featuring live stream analysis, training metrics, and interactive FastAPI-like endpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
